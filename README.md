@@ -22,10 +22,11 @@ Note: Domain hosting website will need to support financial transactions for the
   - [Wix](https://support.wix.com/en/article/wix-forms-adding-and-setting-up-a-donation-form)
   - [GoDaddy](https://www.godaddy.com/payments)
 
-Meetings Notes: Meeting with Michael 2/2/24 2:00 pm - 2:41 pm.
-Michael met with the omitttee again last week. Board overses parks and rec district but we don't get to be engaged necessarily as a collective on this ballot. Energy going into the ballot measure, but not promote it. So as individuals can promopt it, but board cannot.
+### Meetings Notes: Meeting with Michael 2/2/24 2:00 pm - 2:41 pm.
+Michael met with the committee again last week. The board oversees the Parks and Rec district, but we aren't collectively engaged in promoting this ballot. While the focus is on the ballot measure, the board itself cannot actively promote it. However, individuals are encouraged to promote it on their own.
 
-Ballot
+#### Information on the May '24 Ballot Measure
+
 -Bond
 -Levi - for operations
 Voted on but they are in the middle on getting the ballot measure together regarding wording and explanations for a ballot out to vote.
