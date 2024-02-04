@@ -90,7 +90,47 @@ Michael met with the committee again last week. The board oversees the Parks and
       - Canva.
 
 - **PnR Special Fundraising Dinner**
-  - To raise money for PAC. Chefs to offer up their labor and spacing at Celio. This event might funnel through there as well, maybe sell...
+  - To raise money for PAC. Chefs to offer up their labor and spacing at Celio. This event might funnel through there as well, maybe sell tickets on website?
+
+#### Website Guide and Framework
+
+### Programming Language
+- Very familiar with **C#**, **JavaScript**, and **React**.
+  - **C#:** Well-versed in creating effective views for different sections of the website.
+    - Database: **SQL**.
+  - **React:** Proficient in building a highly responsive main page and a few additional views.
+    - Database: **NoSQL**, hosted on the cloud, **Firebase**.
+
+### English and Spanish
+
+Thoughts on having English and Spanish versions of the website.
+
+## Using C# (ASP.NET Core Backend):
+
+1. **Resource Files:**
+   - Store your strings, labels, and content for both English and Spanish versions in resource files. You can create separate resource files for each language.
+
+2. **Middleware:**
+   - Implement middleware to detect the user's language preference based on their browser settings or user selection. Set the selected language in a user session or cookie.
+
+3. **Backend Logic:**
+   - Use the selected language to fetch the appropriate content from the resource files and provide it to the frontend when rendering the views.
+
+## Using React (Frontend):
+
+1. **Localization Libraries:**
+   - Utilize localization libraries like `react-i18next` or `react-intl` to manage translations and switch between languages on the frontend.
+
+2. **Language Switch Function:**
+   - Create a function that allows users to switch the language. This function should update the language preference in the state or context and trigger a re-render of the components with the updated language content.
+
+3. **Translate Components:**
+   - Wrap components or text elements that need translation with the localization library's translation functions.
+
+## Questions
+- Can I combine programming languages, or can I only pick one programming language?
+- What domain hosting website would be best to use with PayPal?
+
 
 ## License
 MIT License
