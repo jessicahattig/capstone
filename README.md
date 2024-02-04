@@ -15,7 +15,7 @@ The Hood River Parks and Recreation Committee is seeking a website to promote th
 - Note: In addition to these features listed, I will be meeting with Michael Howard on 2/2/24 to discuss more specifics on requested feature in addition to receiving the information PnR wants to display on this website. Michael also requests purchasing a domain.
 
 ## Domain Ideas
-Note: Domain hosting website will need to support financial transactions for the donations page.
+* Note: Domain hosting website will need to support financial transactions for the donations page. *
 
 - Domain hosting websites in consideration include:
   - [Squarespace](https://www.bluehillsdigital.com/articles/squarespace-nonprofits-strengths-limitations-pricing/#:~:text=Squarespace%20provides%20a%20Donations%20block,account%20to%20process%20the%20payments.)
@@ -27,22 +27,84 @@ Michael met with the committee again last week. The board oversees the Parks and
 
 #### Information on the May '24 Ballot Measure
 
--Bond
--Levi - for operations
-Voted on but they are in the middle on getting the ballot measure together regarding wording and explanations for a ballot out to vote.
-Using volunteers like themselves - they have a PAC (political action compitee) which can promote ballot and can work individual as board members but not as acomittee. Board meetings can work one on oenwith individuals. Michael is working on social media and the web pag. I can work wiith others on the comittee, as individual, There is 3.5 months to vote. Michael wants the bear bones of the website. Mid february would be great to start sending them to. Michael wil be the milddle person to add additional information or adjustments on the website. 
-Michael is not sure who this informational will come from and Michael thinks I'll work with various people on obraining information. Takng care of the website will come from Me and Michael - requests will come to us to add the website.
+- Bond
+- Levi: To increase funds for expanding and operating Parks and Rec (aka PnR).
+    - The committee has voted on this measure, and they are now in the process of wording the ballot measure since language and explanations are very imperative.
+- Committee needs to use volunteers like myself - they have a PAC (Political Action Committee) which can promote the ballot and can work individually as board members but not as a committee.
+  - Board members, like Michael, can work on tasks with individuals.
+    - Michael is working on social media and the webpage. The webpage aspect is where I come in.
+      - There are 3.5 months to go before the ballot vote. Michael wants the bare bones of the website up as soon as possible, ideally Mid-February would be great.
+      - Michael will be the middle person to add additional information or adjustments to the website.
+      - Taking care of the website will come from me and Michael - requests will come to us to add to the website.
+        - *Note: Michael is not sure who this information will come from, and Michael thinks I'll work with various people on obtaining information. Taking care of the website will come from me and Michael - requests will come to us to add to the website.*
 
-Basic out put (MVP)
-1) use whateverI want to use to develope website. Too long to make we will need to avoid. 
--Main homepage
-  Include
-    -deatails of the ask. Detail overview of the ballot measures will be. (Info about the bond and levi) aka fact sheet. 
-    -detailed history of parks and recs distrcit
-      -highlightPnR works on shoestring budget and been doing more and more
-        -to do more now they need more funds via historial
-    -Ballot info additional: there is a lot of variety of information. Images will be given to show
-      -Michael will get photos and diagrams next week
+#### MVP
+- Michael said I can use whatever I think is best to develope the website. Avoid using complexity since he does not want to take too long to roll out this website. *Time is of the essence*
+
+- **Main Homepage**
+  - A detailed overview of the ballot measures will be provided, including information about the bond and levy presented in a fact sheet format.
+
+    - **Detailed History of Parks and Recreation District**
+      - Highlighting the Parks and Recreation District's history, emphasizing its ability to operate on a shoestring budget and its continuous efforts to do more with limited resources.
+        - To achieve greater impact, the Parks and Recreation District is now seeking additional funds via a historical ballot measure.
+
+    - **Ballot Information Addendum**
+      - The ballot information section offers a diverse range of details. Images will be incorporated to visually enhance the presentation.
+        - Michael will be obtaining photos and diagrams for inclusion, scheduled for next week.
+
+- **Additional Tabs or Footer**
+  - Section to allow people to get involved.
+    - Donations button/page.
+  - Ability to link a QR code to the website.
+    - QR for donations.
+    - Donations will most likely use PayPal. So, the donations page needs to redirect to PayPal.
+    - Primary donations link will be through PayPal.
+  - Contact us email, so people can communicate with the director of PAC.
+    - Michael has an idea for a second email address associated with the website. For example, tell us what YOU want to see from PnR.
+      - Example, an email to receive input on elements like color.
+    - Community input/suggestions (above) will go into a bucket that will be taken into consideration, but PnR will not get back to you.
+  - Widgets to link Instagram to the Facebook account that the committee will be running. Also, more frequent news updates.
+    - Facebook and Instagram will be updated more frequently.
+
+- **Additional Notes** 
+  - Once websites get established, there won't be frequent changes.
+  - Two different web links that will route to the same hosted website.
+    - One in English.
+    - The second in Spanish.
+      - Michael prefers not to use a translate button but recognizes it might be needed.
+        - Platform does it for us?
+        - Put into another language?
+        - Michael wants it to be functional so people can immediately go to and see the website in Spanish (40% of the community is Hispanic, so this is important).
+
+- **Name**: 
+  - Website name options: yesyespnr.com or variations (Michael says this one is available).
+  - Spanish version: sisipnr.com or sisipnr.org (both available).
+
+- **Pay for Search Engine Promotion**
+  - PAC or Michael will pay for SEO.
+
+- **If Fails in May, Try Again in November**
+  - Further promotion ideas:
+    - Flyers, word of mouth, open to other ideas.  (I will most likely not do, but will keep in mind.)
+    - Application to promote social media automation posts.
+      - Canva.
+
+- **PnR Special Fundraising Dinner**
+  - To raise money for PAC. Chefs to offer up their labor and spacing at Celio. This event might funnel through there as well, maybe sell...
+
+----
+
+- **Main Homepage**
+  - Detail overview of the ballot measures will be provided. This includes information about the bond and levy, presented in a fact sheet format.
+
+    - **Detailed History of Parks and Recreation District**
+      - Highlighting the Parks and Recreation District's history, emphasizing its ability to operate on a shoestring budget and its continuous efforts to do more with limited resources.
+        - To achieve greater impact, the Parks and Recreation District is now seeking additional funds via a historical ballot measure.
+
+    - **Ballot Information Addendum**
+      - The ballot information section offers a diverse range of details. Images will be incorporated to visually enhance the presentation.
+        - Michael will be obtaining photos and diagrams for inclusion, scheduled for next week.
+
 
     Additional tabs or footer
       -section to allow people to get invovled.
