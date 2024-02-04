@@ -116,7 +116,7 @@ Thoughts on having English and Spanish versions of the website.
 3. **Backend Logic:**
    - Use the selected language to fetch the appropriate content from the resource files and provide it to the frontend when rendering the views.
 
-## Using React (Frontend):
+#### Using React (Frontend):
 
 1. **Localization Libraries:**
    - Utilize localization libraries like `react-i18next` or `react-intl` to manage translations and switch between languages on the frontend.
