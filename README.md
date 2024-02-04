@@ -22,10 +22,10 @@ The Hood River Parks and Recreation Committee is seeking a website to promote th
   - [Wix](https://support.wix.com/en/article/wix-forms-adding-and-setting-up-a-donation-form)
   - [GoDaddy](https://www.godaddy.com/payments)
 
-### Meetings Notes: Meeting with Michael 2/2/24 2:00 pm - 2:41 pm.
+## Meetings Notes: Meeting with Michael 2/2/24 2:00 pm - 2:41 pm.
 Michael met with the committee again last week. The board oversees the Parks and Rec district, but we aren't collectively engaged in promoting this ballot. While the focus is on the ballot measure, the board itself cannot actively promote it. However, individuals are encouraged to promote it on their own.
 
-#### Information on the May '24 Ballot Measure
+### Information on the May '24 Ballot Measure
 
 - Bond
 - Levi: To increase funds for expanding and operating Parks and Rec (aka PnR).
@@ -38,7 +38,7 @@ Michael met with the committee again last week. The board oversees the Parks and
       - Taking care of the website will come from me and Michael - requests will come to us to add to the website.
         - *Note: Michael is not sure who this information will come from, and Michael thinks I'll work with various people on obtaining information. Taking care of the website will come from me and Michael - requests will come to us to add to the website.*
 
-#### MVP
+### MVP
 - Michael said I can use whatever I think is best to develope the website. Avoid using complexity since he does not want to take too long to roll out this website. *Time is of the essence*
 
 - **Main Homepage**
@@ -92,7 +92,7 @@ Michael met with the committee again last week. The board oversees the Parks and
 - **PnR Special Fundraising Dinner**
   - To raise money for PAC. Chefs to offer up their labor and spacing at Celio. This event might funnel through there as well, maybe sell tickets on website?
 
-#### Website Guide and Framework
+## Website Guide and Framework
 
 ### Programming Language
 - Very familiar with **C#**, **JavaScript**, and **React**.
@@ -101,11 +101,11 @@ Michael met with the committee again last week. The board oversees the Parks and
   - **React:** Proficient in building a highly responsive main page and a few additional views.
     - Database: **NoSQL**, hosted on the cloud, **Firebase**.
 
-### English and Spanish
+### English and Spanish Feature
 
 Thoughts on having English and Spanish versions of the website.
 
-## Using C# (ASP.NET Core Backend):
+#### Using C# (ASP.NET Core Backend):
 
 1. **Resource Files:**
    - Store your strings, labels, and content for both English and Spanish versions in resource files. You can create separate resource files for each language.
